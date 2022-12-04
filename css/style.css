@@ -185,7 +185,6 @@ body {
         backdrop-filter: blur(2px);
         border-radius: 10px;
         padding: 0 15px;
-
     }
 
     .title3 {
@@ -221,7 +220,7 @@ body {
     .button1 {
         background: rgba(217, 217, 217, 0.71);
         border-radius: 8px;
-        width: 233px;
+        width: 210px;
         height: 57px;
         border: none;
         display: flex;
@@ -239,7 +238,7 @@ body {
 
     .button2 {
         border-radius: 8px;
-        width: 233px;
+        width: 210px;
         height: 57px;
         border: none;
         background: #46B1DE;
@@ -665,7 +664,7 @@ body {
         display: inline-flex;
         justify-content: center;
         row-gap: 10px;
-        column-gap: 15px;
+        column-gap: 50px;
         margin: 15px 0;
         flex-wrap: wrap;
     }
@@ -673,7 +672,7 @@ body {
     .button1 {
         background: rgba(217, 217, 217, 0.71);
         border-radius: 8px;
-        width: 233px;
+        width: 210px;
         height: 57px;
         border: none;
         display: flex;
@@ -691,7 +690,7 @@ body {
 
     .button2 {
         border-radius: 8px;
-        width: 233px;
+        width: 210px;
         height: 57px;
         border: none;
         background: #46B1DE;
@@ -1187,7 +1186,7 @@ body {
         display: inline-flex;
         justify-content: center;
         row-gap: 10px;
-        column-gap: 15px;
+        column-gap: 70px;
         margin: 15px 0;
         flex-wrap: wrap;
     }
@@ -1195,7 +1194,7 @@ body {
     .button1 {
         background: rgba(217, 217, 217, 0.71);
         border-radius: 8px;
-        width: 233px;
+        width: 210px;
         height: 57px;
         border: none;
         display: flex;
@@ -1213,7 +1212,7 @@ body {
 
     .button2 {
         border-radius: 8px;
-        width: 233px;
+        width:210px;
         height: 57px;
         border: none;
         background: #46B1DE;
