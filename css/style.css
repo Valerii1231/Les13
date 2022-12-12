@@ -721,7 +721,7 @@ body {
         width: auto;
     }
     .main {
-        background-image: url(./background.jpg);
+       
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
