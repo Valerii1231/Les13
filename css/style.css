@@ -6,7 +6,7 @@
 @font-face {
     font-family: 'Sofia Sans';
     font-display: swap;
-    src: url(../css/SofiaSans.ttf);
+    src: url(./SofiaSans.ttf);
     font-weight: bold;
     font-style: normal;
 }
@@ -28,7 +28,7 @@ body {
     }
 
     .main {
-        background-image: url(../img/background.jpg);
+        background-image: url(./background.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
